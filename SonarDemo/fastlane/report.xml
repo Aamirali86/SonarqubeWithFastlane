@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.003712">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: Switch to ios lint lane" time="0.000792">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: swiftlint" time="0.0968">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: Switch to ios build lane" time="0.000997">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: scan" time="50.645601">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: Switch to ios coverage lane" time="0.001153">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: slather" time="2.77612">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: sonar" time="7.407999">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

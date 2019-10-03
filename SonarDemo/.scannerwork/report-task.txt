@@ -1,0 +1,6 @@
+projectKey=com.company.app
+serverUrl=http://192.168.206.31:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://192.168.206.31:9000/dashboard?id=com.company.app
+ceTaskId=AW2QvkKFo6JyDUjHb_5K
+ceTaskUrl=http://192.168.206.31:9000/api/ce/task?id=AW2QvkKFo6JyDUjHb_5K
